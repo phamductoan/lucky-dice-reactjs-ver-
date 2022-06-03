@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lucky-dice-reactjs-ver-/static/css/main.56e6221f.css",
+    "main.js": "/lucky-dice-reactjs-ver-/static/js/main.2a8ee954.js",
+    "static/js/787.a64e700a.chunk.js": "/lucky-dice-reactjs-ver-/static/js/787.a64e700a.chunk.js",
+    "static/media/people-playing-casino.jpg": "/lucky-dice-reactjs-ver-/static/media/people-playing-casino.15f2189a369931cc20b4.jpg",
+    "static/media/dice.png": "/lucky-dice-reactjs-ver-/static/media/dice.892299989745ee6f5b5a.png",
+    "static/media/5.png": "/lucky-dice-reactjs-ver-/static/media/5.234d3c86d3de797d0b83.png",
+    "static/media/6.png": "/lucky-dice-reactjs-ver-/static/media/6.7064a1c58590a80a0b66.png",
+    "static/media/4.png": "/lucky-dice-reactjs-ver-/static/media/4.ae27a0994b5aca60c77d.png",
+    "static/media/3.png": "/lucky-dice-reactjs-ver-/static/media/3.2a624725fc91d289dcc5.png",
+    "static/media/2.png": "/lucky-dice-reactjs-ver-/static/media/2.26d2ae89c9b3b223ee90.png",
+    "static/media/1.png": "/lucky-dice-reactjs-ver-/static/media/1.2dbec591a9be4568c091.png",
+    "index.html": "/lucky-dice-reactjs-ver-/index.html",
+    "main.56e6221f.css.map": "/lucky-dice-reactjs-ver-/static/css/main.56e6221f.css.map",
+    "main.2a8ee954.js.map": "/lucky-dice-reactjs-ver-/static/js/main.2a8ee954.js.map",
+    "787.a64e700a.chunk.js.map": "/lucky-dice-reactjs-ver-/static/js/787.a64e700a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.2a8ee954.js"
+  ]
+}
